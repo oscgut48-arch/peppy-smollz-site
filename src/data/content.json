@@ -1,0 +1,40 @@
+{
+  "hero": {
+    "headline": "Real hustlers don’t rug.",
+    "subhead": "We stack $SOL like souls.",
+    "image": "/images/hero-cover.jpg"
+  },
+  "tracks": [
+    {
+      "title": "Moonless Nights",
+      "type": "mp3",
+      "src": "/audio/moonless-nights.mp3"
+    },
+    {
+      "title": "Peppy's Theme",
+      "type": "mp3",
+      "src": "/audio/peppys-theme.mp3"
+    },
+    {
+      "title": "Trench Commandments",
+      "type": "embed",
+      "embedUrl": "https://soundcloud.com/youruser/trench-commandments"
+    }
+  ],
+  "lore": "Peppy survived the meme-coin trenches without scamming...",
+  "roadmap": [
+    { "phase": "Phase 0", "items": ["Brand kit & site online", "Snippet drops", "Discord open"] },
+    { "phase": "Phase 1", "items": ["‘Indian Rugs’ single + video", "Spaces listening party", "Meme challenges"] },
+    { "phase": "Phase 2", "items": ["EP release", "Merch / limited NFTs", "Feature collabs"] }
+  ],
+  "gallery": [],
+  "social": {
+    "x": "https://twitter.com/peppysmollz",
+    "discord": "https://discord.gg/yourinvite",
+    "youtube": "https://youtube.com/@peppysmollz",
+    "audius": "https://audius.co/peppysmollz"
+  },
+  "formspree": {
+    "endpoint": "https://formspree.io/f/your-id"
+  }
+}
